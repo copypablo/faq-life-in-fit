@@ -134,28 +134,15 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 "pergunta": "A torrada tem que ser integral?",
                 "resposta": "Sim, de preferência sim."
-            }
-        ],
-        "COMERCIAL": [
-            {
-                "pergunta": "O que é o Você Magra?",
-                "resposta": "O Você Magra é um plano no qual a aluna não tem acesso ao plano individualizado. Nesse formato, ela recebe mensalmente cardápios padronizados, disponibilizados dentro da Plataforma Life In Fit. O suporte nutricional para as alunas desse plano é realizado exclusivamente através da comunidade no Telegram, onde podem tirar dúvidas, receber orientações gerais e interagir com a equipe e outras alunas."
             },
-            {
-                "pergunta": "O que é o Seca Pochete?",
-                "resposta": "O Seca Pochete é um desafio de 21 dias, onde a aluna segue um cardápio com restrição calórica, em média 1250 kcal por dia. Esse cardápio é padrão, não personalizado, e tem como foco acelerar os resultados iniciais. Após finalizar os 21 dias, a aluna deve passar a utilizar o plano individualizado. Importante: As alunas do Seca Pochete não têm acesso à comunidade no Telegram. Por isso, todas as dúvidas nutricionais devem ser respondidas exclusivamente pelo suporte individualizado."
-            },
-            {
-                "pergunta": "O cardápio é o mesmo para todo mundo?",
-                "resposta": "Sim, o cardápio do desafio é padronizado (1350 a 1450 calorias por dia). Isso porque ao longo dos anos estudando e trabalhando com emagrecimento feminino eu percebi que o valor calórico sempre ficava dentro dessa margem. Mulheres que comem menos de 1300 calorias sentem muita fome, beliscam demais e acabam comendo muito mais no final de semana devido a fome aumentada. Com isso não prosperam no emagrecimento, geralmente."
-            },
+
             {
                 "pergunta": "Qual marca de suplementos o nutri indica?",
                 "resposta": "Growth suplementos, integral médica e dux nutrition."
             },
             {
                 "pergunta": "Qual o melhor app para contar calorias?",
-                "resposta": "Só conheço apps de profissionais, não sei opinar a respeito."
+                "resposta": "Dieta Calculada."
             },
             {
                 "pergunta": "Qual marca de geléia de frutas eu posso usar?",
@@ -184,9 +171,8 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 "pergunta": "Qual a melhor marca de iogurte natural?",
                 "resposta": "Qualquer uma que tenha apenas 2 ingredientes."
-            }
-        ],
-        "TÉCNICA": [
+            },
+
             {
                 "pergunta": "Posso comer a mesma coisa todos os dias no café da manhã?",
                 "resposta": "Pode."
@@ -286,7 +272,63 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 "pergunta": "Sou diabética / pré-diabética, posso seguir o plano alimentar?",
                 "resposta": "Se você tem pré-diabetes, pode sim seguir o plano alimentar normalmente. É essencial, no entanto, que você sempre faça as refeições completas, conforme o plano orienta, para ajudar no controle da glicemia e evitar picos de insulina. Isso significa que em cada refeição você deve combinar: Carboidratos: como pão, arroz, feijão, batata, etc. Proteínas e gorduras: como carnes, ovos, queijos, castanhas, etc. Fibras: presentes nas frutas e vegetais. Essa combinação é fundamental para garantir equilíbrio na resposta glicêmica. Além disso, a prática regular de exercícios físicos é extremamente importante para auxiliar no controle da glicemia e na sua saúde como um todo."
-            }
+            },
+
+
+        ],
+        "COMERCIAL": [
+            {
+                "pergunta": "O que é o Você Magra?",
+                "resposta": "O Você Magra é um plano no qual a aluna não tem acesso ao plano individualizado. Nesse formato, ela recebe mensalmente cardápios padronizados, disponibilizados dentro da Plataforma Life In Fit. O suporte nutricional para as alunas desse plano é realizado exclusivamente através da comunidade no Telegram, onde podem tirar dúvidas, receber orientações gerais e interagir com a equipe e outras alunas."
+            },
+            {
+                "pergunta": "O que é o Seca Pochete?",
+                "resposta": "O Seca Pochete é um desafio de 21 dias, onde a aluna segue um cardápio com restrição calórica, em média 1250 kcal por dia. Esse cardápio é padrão, não personalizado, e tem como foco acelerar os resultados iniciais. Após finalizar os 21 dias, a aluna deve passar a utilizar o plano individualizado. Importante: As alunas do Seca Pochete não têm acesso à comunidade no Telegram. Por isso, todas as dúvidas nutricionais devem ser respondidas exclusivamente pelo suporte individualizado."
+            },
+            {
+                "pergunta": "O cardápio é o mesmo para todo mundo?",
+                "resposta": "Sim, o cardápio do desafio é padronizado (1350 a 1450 calorias por dia). Isso porque ao longo dos anos estudando e trabalhando com emagrecimento feminino eu percebi que o valor calórico sempre ficava dentro dessa margem. Mulheres que comem menos de 1300 calorias sentem muita fome, beliscam demais e acabam comendo muito mais no final de semana devido a fome aumentada. Com isso não prosperam no emagrecimento, geralmente."
+            },
+
+        ],
+        "TÉCNICA": [
+
+            {
+                "pergunta": "O que é zap do nutri?",
+                "resposta": "O zap do nutri, é um acompanhamento individualizado, onde o nutri João Muzzy e toda sua equipe, irá desenvolver um plano alimentar 100% individualizado para o seu caso, com todos os alimentos que você mais gosta de comer no dia a dia. Além de dietas personalizadas, no zap do nutri também entregamos treinos personalizados para você fazer em casa ou até mesmo na academia. O zap do nutri traz praticidade, te entregando tudo o que você precisa para emagrecer definitivamente em tempo recorde e comendo tudo o que você mais ama no dia a dia. Todo o protocolo de dieta e treinos, serão disponibilizados através de nossos aplicativos parceiros, web diet e mfit, assim como, podemos entregar também através do whatsapp. Aqui não tem dietas malucas, e essas coisas que te fazem comer menos que um passarinho. Você pode emagrecer comendo comida de verdade.Pão, arroz, feijão e até chocolate todos os dias em sua dieta. Zero restrições."
+            },
+            {
+                "pergunta": "Quanto custa o zap do nutri?",
+                "resposta": "Atualmente, o nosso plano mais querido pelas alunas é o zap do nutri anual, onde você paga por 10 meses e ganha dois de presente, totalizando um ano de acesso. Mas, também contamos com outros planos, sendo eles:"
+            },
+            {
+                "pergunta": "Como acessar o telegram?",
+                "resposta": "Você precisa instalar o aplicativo Telegram no seu celular. Depois disso, é só clicar no link da Ju abaixo, enviar seu e-mail na conversa e aguardar  ela vai liberar os grupos disponíveis de acordo com o seu plano. Link da Ju: https://t.me/LifeInFitBot  OBS: A Comunidade das Musas é um espaço exclusivo para alunas dos programas Você Magra e Seca Pochete. Caso a aluna não consiga acessar pelo link mesmo tendo o app do telegram, peça para ela digitar nas buscas do telegram: @lifeinfitbot que ela vai conseguir localizar o chat da Ju e seguir os passos"
+            },
+            {
+                "pergunta": "Como responder o questionario do Zap Nutri?",
+                "resposta": " Para responder o questionário, envie o e-mail cadastrado na assinatura no Zap do Nutri. Após isso, é só seguir todas as recomendações que serão enviadas por lá. Link:  bit.ly/zapdonutrii OBS: Em casos de dificuldade ou dúvidas por parte do assinante, sempre peça um print da tela para que possamos visualizar melhor o possível problema e oferecer a ajuda adequada."
+            },
+            {
+                "pergunta": "Como funciona as regras de reembolso?",
+                "resposta": "Nos planos Você Magra e Seca Pochete, oferecemos uma garantia de 7 dias, contados a partir da data de assinatura, para desistência. Já nos planos individuais, a garantia é de 14 dias: sendo 7 dias após a assinatura e mais 7 dias após o recebimento da dieta. Após esses prazos, não é possível solicitar reembolso, conforme os termos acordados no momento da contratação."
+            },
+            {
+                "pergunta": "Como funciona as regras de cancelamento?",
+                "respostas": "Para solicitar o cancelamento, o assinante deve ser encaminhado ao suporte correspondente ao seu plano:Você Magra / Seca Pochete → Suporte via chat da plataforma Planos Individuais → Suporte individual via WhatsApp Assim garantimos que o atendimento seja feito de forma correta e personalizada."
+            },
+            {
+                "pergunta": "Como acessar os canais de suporte de treinos?",
+                "resposta": "Treino Masculino: Suporte via chat da plataforma"
+            },
+            {
+                "pergunta": "Como acessar os canais de suporte de dieta individualizada?",
+                "resposta": "Dieta Individualizada: Suporte via WhatsApp  Dieta Individualizada - +55  27 99271-0891"
+            },
+            {
+                "pergunta": "Como acessar os canais de suporte do você magra?",
+                "resposta": "Dieta Coletiva: Dieta  Você Magra / Seca Pochete"
+            },
 
         ],
 
